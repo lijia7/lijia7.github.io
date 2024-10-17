@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "News"
     url: "/#-news"

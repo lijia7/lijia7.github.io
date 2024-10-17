@@ -21,6 +21,7 @@ I am Jiaqi Li, a current (2023.09-) master student in Artificial Intelligence at
 
 My current research interests are 3D vision, autonomous driving and diffusion-based depth estimation.
 
+<span class='anchor' id='education'></span>
 # 🎓**Education**
 
 - **2023~Present,** **Master student in Artificial Intelligence(Advised by Prof. Zhiguo Cao)**, *School of Artificial intelligence & Automation (AIA) ,
