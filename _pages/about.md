@@ -106,7 +106,7 @@ The depth annotations collected by LiDAR in autonomous driving scenarios are hig
 2. **[Winner Award] [Team Leader]** NTIRE 2024 Challenge on HR Depth from Images of Specular and Transparent Surfaces, CVPRW 2024
 3. **[Fifth Place]** **[Team Leader]** Mobile AI & AIM 2022 Challenge, ECCVW 2022
 
-# 🏆**Awards & Honors**
+# 🏆**Honors and Awards**
 
 - First-Class Scholarship for Postgraduates(研究生一等学业奖学金), HUST, 2023
 - Honours Degrees(荣誉学士学位), HUST (Top 3%), 2023
