@@ -30,7 +30,7 @@ Huazhong University of Science & Technology (HUST), Wuhan, China*
 
 # 🔥 **News**
 - *2024.09*: &nbsp;🎉🎉 <a href='https://neurips.cc/virtual/2024/poster/93704'>SDDR</a> is accepted by **NeurIPS 2024**.
-- *2024.09*: &nbsp;🎉🎉 <a href='https://ieeexplore.ieee.org/document/10707178'>NVDS+</a>"NVDS+: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation" is accepted by **TPAMI**. 
+- *2024.09*: &nbsp;🎉🎉 <a href='https://ieeexplore.ieee.org/document/10707178'>NVDS+</a> is accepted by **TPAMI**. 
 - *2024.05*: &nbsp;🎉🎉 Winner of two international prizes(**<a href='https://cvlai.net/ntire/2024'>NTIRE 2024</a>** and **<a href='https://sites.google.com/view/eccv24-tricky-workshop/home'>TRICKY 2024</a>**). One paper is accepted by **<a href='https://arxiv.org/abs/2408.06083'>ECCV 2024 Workshop</a>**.
 - *2023.07*: &nbsp;🎉🎉 <a href='https://dlnext.acm.org/doi/abs/10.1145/3581783.3611807'>DADP</a> is accepted by **ACM MM 2023**.
 - *2023.07*: &nbsp;🎉🎉 <a href='https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Neural_Video_Depth_Stabilizer_ICCV_2023_paper.html'>NVDS</a> is accepted by **ICCV 2023**. 
@@ -42,7 +42,7 @@ Huazhong University of Science & Technology (HUST), Wuhan, China*
 
 [Self-Distilled Depth Refinement with Noisy Poisson Fusion](https://arxiv.org/pdf/2409.17880v1)
 
-**Jiaqi Li**, Yiran Wang, Jinghong Zheng, Zihao Huang, Ke Xian, Zhiguo Cao, Jianming Zhang
+**Jiaqi Li***, Yiran Wang*, Jinghong Zheng, Zihao Huang, Ke Xian, Zhiguo Cao§, Jianming Zhang
 
 [Paper](https://arxiv.org/pdf/2409.17880v1) [Github](https://github.com/lijia7/SDDR) [Poster](https://neurips.cc/virtual/2024/poster/93704)
 
@@ -75,7 +75,7 @@ We focus on the robustness of depth estimation on mirrors and transparent object
 
 [NVDS+: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation(TPAMI)](https://ieeexplore.ieee.org/document/10707178)
 
-Yiran Wang, Min Shi, **Jiaqi Li**, Zihao Huang, Zhiguo Cao, Jianming Zhang, Ke Xian,  Guosheng Lin
+Yiran Wang, Min Shi, **Jiaqi Li**, Zihao Huang, Zhiguo Cao, Jianming Zhang, Ke Xian§,  Guosheng Lin
 
 [Paper(ICCV)](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Neural_Video_Depth_Stabilizer_ICCV_2023_paper.html) [Paper(TPAMI)](https://ieeexplore.ieee.org/document/10707178) [Github](https://github.com/RaymondWang987/NVDS/) [Project Page](https://raymondwang987.github.io/NVDS/) [Dataset Page](https://raymondwang987.github.io/VDW/) 
 
@@ -92,13 +92,13 @@ Yiran Wang, Min Shi, **Jiaqi Li**, Zihao Huang, Zhiguo Cao, Jianming Zhang, Ke X
 
 [Diffusion-Augmented Depth Prediction with Sparse Annotations](https://dlnext.acm.org/doi/abs/10.1145/3581783.3611807)
 
-**Jiaqi Li**, Yiran Wang, Zihao Huang, Jinghong Zheng, Ke Xian, Zhiguo Cao, Jianming Zhang
+**Jiaqi Li**, Yiran Wang§, Zihao Huang, Jinghong Zheng, Ke Xian, Zhiguo Cao, Jianming Zhang
 
 The depth annotations collected by LiDAR in autonomous driving scenarios are highly sparse, and it is difficult for the model to reconstruct a dense and complete depth map from this learning. The previous methods have poor robustness in challenging scenarios such as night, rain, and dazzling light, and cannot meet the practical applications. We propose a plug-and-play framework based on diffusion modeling and object-guided integrality loss to enhance global and local structural integrity, respectively.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+* : Equal Contribution; § : Corresponding Author
 
 # 🏁**Competitions**
 
