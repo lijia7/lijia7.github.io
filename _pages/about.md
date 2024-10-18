@@ -30,11 +30,11 @@ Huazhong University of Science & Technology (HUST), Wuhan, China*
 Huazhong University of Science & Technology (HUST), Wuhan, China*
 
 # 🔥 **News**
-- *2024.09*: &nbsp;🎉🎉 <a href='https://neurips.cc/virtual/2024/poster/93704'>SDDR</a> is accepted by **NeurIPS 2024**.
-- *2024.09*: &nbsp;🎉🎉 <a href='https://ieeexplore.ieee.org/document/10707178'>NVDS+</a> is accepted by **TPAMI**. 
-- *2024.05*: &nbsp;🎉🎉 Winner of two international prizes(**<a href='https://cvlai.net/ntire/2024'>NTIRE 2024</a>** and **<a href='https://sites.google.com/view/eccv24-tricky-workshop/home'>TRICKY 2024</a>**). One paper is accepted by **<a href='https://arxiv.org/abs/2408.06083'>ECCV 2024 Workshop</a>**.
-- *2023.07*: &nbsp;🎉🎉 <a href='https://dlnext.acm.org/doi/abs/10.1145/3581783.3611807'>DADP</a> is accepted by **ACM MM 2023**.
-- *2023.07*: &nbsp;🎉🎉 <a href='https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Neural_Video_Depth_Stabilizer_ICCV_2023_paper.html'>NVDS</a> is accepted by **ICCV 2023**. 
+- *2024.09*: &nbsp;🎉 <a href='https://neurips.cc/virtual/2024/poster/93704'>SDDR</a> is accepted by **NeurIPS 2024**.
+- *2024.09*: &nbsp;🎉 <a href='https://ieeexplore.ieee.org/document/10707178'>NVDS+</a> is accepted by **TPAMI**. 
+- *2024.05*: &nbsp;🎉 Winner of two international prizes(**<a href='https://cvlai.net/ntire/2024'>NTIRE 2024</a>** and **<a href='https://sites.google.com/view/eccv24-tricky-workshop/home'>TRICKY 2024</a>**). One paper is accepted by **<a href='https://arxiv.org/abs/2408.06083'>ECCV 2024 Workshop</a>**.
+- *2023.07*: &nbsp;🎉 <a href='https://dlnext.acm.org/doi/abs/10.1145/3581783.3611807'>DADP</a> is accepted by **ACM MM 2023**.
+- *2023.07*: &nbsp;🎉 <a href='https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Neural_Video_Depth_Stabilizer_ICCV_2023_paper.html'>NVDS</a> is accepted by **ICCV 2023**. 
 
 # 📝 **Publications** 
 
